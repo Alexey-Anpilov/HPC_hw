@@ -5,7 +5,7 @@ n = 1000
 
 M = [random.random() for i in range(n * n)]
 
-test_m1 = [1, -1, 1,
+test_m1 = [2, -1, 1,
            1, 0, 1,
            1, 1, 2]
 
